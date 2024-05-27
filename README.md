@@ -1,4 +1,4 @@
-# Repositório com todo o conteudo de estudos relacioando a C#
+# Repositório com todo o conteudo de estudos relacionado a C#
 
 > Status do projetO: Em desenvolvimento
 
